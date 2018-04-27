@@ -1,2 +1,2 @@
 # PixelApp
-Drawing
+Sipmple Drawing Application
